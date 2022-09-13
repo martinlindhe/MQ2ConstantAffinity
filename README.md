@@ -1,6 +1,6 @@
 # MQ2ConstantAffinity
 
-Sets the current process to constant affinity.
+Sets the current process to constant affinity, which is helpful while running many bots on the rof2 client.
 
 
 ## Getting Started
